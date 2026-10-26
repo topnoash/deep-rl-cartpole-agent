@@ -1,0 +1,1 @@
+gymnasium[classic-control]>=1.0.0\nnumpy>=1.24\nmatplotlib>=3.7\ntorch>=2.0\n
