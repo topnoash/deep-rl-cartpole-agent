@@ -51,3 +51,23 @@ Python · PyTorch · Gymnasium · NumPy · Matplotlib
 
 ## License
 MIT. See `LICENSE`.
+
+
+## Training Curve
+
+![DQN training curve](training_curve_v2.png)
+
+## Evaluation Results
+
+Evaluated over 20 episodes on CartPole-v1:
+
+- **Average reward:** 500 / 500
+- **Standard deviation:** 0.0
+- **Perfect episodes:** 20 / 20
+
+These results are from one recorded evaluation run; results may vary across retraining runs.
+
+## Demo
+
+[Watch the CartPole agent demo](cartpole_demo.mp4)
+
